@@ -1,3 +1,7 @@
+# Semantic Book Recommender 
+
+Semantic book recommender uses query from users to provide recommendations on books based on categories and feeling. 
+
 # Dataset
 
 A kaggle dataset with 7k books by Dylan Castillo was used to build this semantic book recommender.
